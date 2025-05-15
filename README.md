@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xaqlayn
 - 👀 I’m interested in AI, Astronomy, politics, neuroscience and Astrophysics.
 - 🌱 I’m currently learning pytorch for deep learning.
-- 💞️ I’m looking to collaborate on some projects for computer vision.
 - 📫 I can be reached on x.com/xaklyn.
 - 😄 Pronouns: he/his.
   
